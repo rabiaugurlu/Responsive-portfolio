@@ -1,3 +1,3 @@
 # Responsive-portfolio
 
-![](responsive_portfolio.gif)
+![](Responsive_portfolio/images/responsive_portfolio.gif)
